@@ -2,7 +2,7 @@
  
    #Template features:
    2% fee auto add to the liquidity pool to locked forever when selling
-   1% fee auto distribute to all holders    
+   5% fee auto distribute to all holders    
    2% fee to marketing per tx
    2% max tx amount of totalsupply in a tx
    
